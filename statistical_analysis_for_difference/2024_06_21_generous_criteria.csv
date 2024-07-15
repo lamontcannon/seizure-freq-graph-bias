@@ -1,0 +1,60 @@
+publication,publication_venue,year_of_publication,drug,funding_source,graph_increase_frequency
+fda_publication_ganaxolone,1,2022,ganaxolone,Marinus Pharmaceuticals,1
+fda_publication_fenfluramine,1,2020,fenfluramine,UCB,1
+fda_publication_cenobamate,1,2019,cenobamate,SK Life Science,1
+fda_publication_cannabidiol,1,2018,cannabidiol,Jazz Pharmaceuticals,1
+fda_publication_stiripentol,1,2018,stiripentol,Biocodex,1
+fda_publication_everolimus,1,2018,everolimus,Novartis,0
+fda_publication_brivaracetam,1,2016,brivaracetam,UCB,1
+fda_publication_eslicarbazepine,1,2013,eslicarbazepine,Sumitomo Pharma America,1
+fda_publication_perampanel,1,2012,perampanel,Eisai,1
+fda_publication_retigabine,1,2011,retigabine,Valeant Pharmaceuticals,1
+fda_publication_clobazam,1,2011,clobazam,Lundbeck,1
+fda_publication_vigabatrin,1,2009,vigabatrin,Lundbeck,1
+fda_publication_lacosamide,1,2008,lacosamide,UCB,1
+fda_publication_rufinamide,1,2008,rufinamide,Eisai,0
+fda_publication_pregabalin,1,2004,pregabalin,Pfizer,0
+fda_publication_zonisamide,1,2000,zonisamide,Dainippon Pharmaceutical,1
+knight_et_al_2022,0,2022,ganaxolone,Marinus Pharmaceuticals,1
+lagae_et_al_2019,0,2019,fenfluramine,Zogenix,1
+nabbout_et_al_2019,0,2019,fenfluramine,Zogenix,1
+knupp_et_al_2022,0,2022,fenfluramine,Zogenix,0
+chung_et_al_2020,0,2020,cenobamate,SK Life Science,0
+krauss_et_al_2020,0,2020,cenobamate,SK Life Science,0
+thiele_et_al_2018,0,2018,cannabidiol,GW Pharmaceuticals,1
+devinsky_et_al_2018,0,2018,cannabidiol,GW Pharmaceuticals,0
+devinsky_et_al_2017,0,2017,cannabidiol,GW Pharmaceuticals,0
+thiele_et_al_2020,0,2020,cannabidiol,GW Pharmaceuticals,0
+chiron_et_al_2000,0,2000,stiripentol,Biocodex,0
+guerrini_et_al_2002,0,2002,stiripentol,Biocodex,0
+french_et_al_2016,0,2016,everolimus,Novartis,1
+ryvlin_et_al_2014,0,2014,brivaracetam,UCB,0
+biton_et_al_2014,0,2014,brivaracetam,UCB,0
+klein_et_al_2015,0,2015,brivaracetam,UCB,1
+elger_et_al_2009,0,2009,eslicarbazepine,Bial,0
+ben_menachem_et_al_2010,0,2010,eslicarbazepine,Bial,0
+sperling_et_al_2015,0,2015,eslicarbazepine,Bial,0
+french_et_al_2012,0,2012,perampanel,Eisai,0
+french_et_al_2013,0,2013,perampanel,Eisai,0
+krauss_et_al_2012,0,2012,perampanel,Eisai,0
+french_et_al_2015,0,2015,perampanel,Eisai,0
+brodie_et_al_2010,0,2010,retigabine,Valeant Pharmaceuticals,1
+french_et_al_2011,0,2011,retigabine,Valeant Pharmaceuticals,1
+porter_et_al_2007,0,2007,retigabine,Valeant Pharmaceuticals,0
+ng_et_al_2011,0,2011,clobazam,Lundbeck,0
+conry_et_al_2009,0,2009,clobazam,Ovation Pharmaceutical,0
+dean_et_al_1999,0,1999,vigabatrin,Hoechst  Marion  Roussel,0
+french_et_al_1996,0,1996,vigabatrin,Hoechst  Marion  Roussel,1
+ben_menachem_et_al_2007,0,2007,lacosamide,UCB,0
+chung_et_al_2010,0,2010,lacosamide,UCB,0
+halasz_et_al_2009,0,2009,lacosamide,UCB,0
+vossler_et_al_2020,0,2020,lacosamide,UCB,0
+glauser_et_al_2008,0,2008,rufinamide,Eisai,0
+french_et_al_2003,0,2003,pregabalin,Pfizer,0
+arroyo_et_al_2004,0,2004,pregabalin,Pfizer,0
+beydoun_et_al_2005,0,2005,pregabalin,Pfizer,0
+Antinew_et_al_2019,0,2019,pregabalin,Pfizer,0
+Mann_et_al_2020,0,2020,pregabalin,Pfizer,0
+faught_et_al_2001,0,2001,zonisamide,Dainippon Pharmaceutical,0
+sackellares_et_al_2004,0,2004,zonisamide,Dainippon Pharmaceutical,0
+schmidt_et_al_1993,0,1993,zonisamide,Parke Davis,1
